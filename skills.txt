@@ -1,0 +1,14 @@
+Python
+SQL
+Excel
+Java
+Machine Learning
+Data Analysis
+Leadership
+Communication
+Pandas
+Django
+Flask
+AWS
+Docker
+Git
